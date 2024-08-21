@@ -9,7 +9,7 @@ spec:
   - repositoryURL:    https://projectcapsule.github.io/charts
     repositoryName:   projectcapsule
     chartName:        projectcapsule/capsule
-    chartVersion:     0.6.0
+    chartVersion:     0.7.0
     releaseName:      capsule
     releaseNamespace: capsule-system
     helmChartAction:  Install
