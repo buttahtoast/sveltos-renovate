@@ -9,7 +9,7 @@ spec:
   - repositoryURL:    https://helm.cilium.io/
     repositoryName:   cilium
     chartName:        cilium/cilium
-    chartVersion:     1.15.6
+    chartVersion:     1.16.1
     releaseName:      kube-system-cilium
     releaseNamespace: kube-system
     helmChartAction:  Install
